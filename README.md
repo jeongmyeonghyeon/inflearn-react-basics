@@ -9,3 +9,12 @@
 [초심자를 위한 react 핵심 강좌 (2)]()
 
 - LifeCycle API
+
+[초심자를 위한 react 핵심 강좌 (3)]()
+
+- 환경세팅 (nvm, nodejs, yarn, VSCode)
+- react-create-app
+
+[초심자를 위한 react 핵심 강좌 (4)]()
+
+- Input 상태 관리하기
