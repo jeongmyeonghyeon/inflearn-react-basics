@@ -68,7 +68,7 @@ React: 그냥 Mutation 을 하지 말자. 그 대신에, 데이터가 바뀌면 
 
 
 
-**[ JSX ] **
+**[ JSX ]**
 
 HTML 같아 보이지만, javascript !
 
