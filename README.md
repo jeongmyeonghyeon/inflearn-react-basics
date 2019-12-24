@@ -27,7 +27,7 @@
 
 - 배열 렌더링하기
 
-[초심자를 위한 react 핵심 강좌 (7)](...)
+[초심자를 위한 react 핵심 강좌 (7)](https://github.com/jeongmyeonghyeon/inflearn-react-basics/blob/master/docs/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20react%20%ED%95%B5%EC%8B%AC%20%EA%B0%95%EC%A2%8C%20(7)%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%9C%EA%B1%B0%2C%20%EC%88%98%EC%A0%95.md)
 
 - 데이터 제거
   - slice
@@ -36,12 +36,12 @@
   - slice
   - map
 
-[초심자를 위한 react 핵심 강좌 (8)](...)
+[초심자를 위한 react 핵심 강좌 (8)](https://github.com/jeongmyeonghyeon/inflearn-react-basics/blob/master/docs/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20react%20%ED%95%B5%EC%8B%AC%20%EA%B0%95%EC%A2%8C%20(8)%20-%20shouldComponentUpdate%20%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%2C%20%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%84%20%EC%99%9C%20%EC%9C%A0%EC%A7%80%20%ED%95%98%EB%8A%94%EA%B0%80.md)
 
 - shouldComponentUpdate 를 통한 최적화
 - 불변성을 왜 유지하는가?
 
-[초심자를 위한 react 핵심 강좌 (9)](...)
+[초심자를 위한 react 핵심 강좌 (9)](https://github.com/jeongmyeonghyeon/inflearn-react-basics/blob/master/docs/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20react%20%ED%95%B5%EC%8B%AC%20%EA%B0%95%EC%A2%8C%20(9)%20-%20%EC%9D%B4%EB%A6%84%EC%9C%BC%EB%A1%9C%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0%2C%20Ref.md)
 
 - 전화번호 찾기
 - Ref
