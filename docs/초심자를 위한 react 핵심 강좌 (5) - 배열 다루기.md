@@ -117,3 +117,5 @@ handleCreate = (data) => {
 
 그 해결을 위한 방법이 Spread syntax, Object.assign() 인게 맞는지 확인하기.
 
+👉🏻 "초심자를 위한 react 핵심 강좌 (8) - shouldComponentUpdate 를 통한 최적화, 불변성을 왜 유지 하는가?" 에 나옴...
+

@@ -35,3 +35,32 @@
 - 데이터 수정
   - slice
   - map
+
+[초심자를 위한 react 핵심 강좌 (8)](...)
+
+- shouldComponentUpdate 를 통한 최적화
+- 불변성을 왜 유지하는가?
+
+[초심자를 위한 react 핵심 강좌 (9)](...)
+
+- 전화번호 찾기
+- Ref
+
+
+
+앞으로 뭘, 어떻게 공부할까?
+
+- Prettier
+- 리액트 컴포넌트 스타일링
+- IMMUTABLE.js (immer.js)
+- 리덕스, 왜 쓸까? 쉽고 편하게 사용하기 위한 발악 (!) 상태 관리 라이브러리... (관련: mobx)
+- 리액트 라우터 v4
+- 코드 스플리팅
+- 서버사이드 렌더링
+- 타입스크립트
+- Jest, Enzyme(?)
+
+
+
+※ 실습코드: [contact-app](https://github.com/jeongmyeonghyeon/contact-app)
+
