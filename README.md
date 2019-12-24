@@ -9,7 +9,6 @@
 [초심자를 위한 react 핵심 강좌 (2)](https://github.com/jeongmyeonghyeon/inflearn-react-basics/blob/master/docs/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20react%20%ED%95%B5%EC%8B%AC%20%EA%B0%95%EC%A2%8C%20(2)%20-%20LifeCycle%20API.md)
 
 - LifeCycle API
-<<<<<<< HEAD
 
 [초심자를 위한 react 핵심 강좌 (3)](...)
 
@@ -19,3 +18,20 @@
 [초심자를 위한 react 핵심 강좌 (4)](...)
 
 - Input 상태 관리하기
+
+[초심자를 위한 react 핵심 강좌 (5)](...)
+
+- 배열에 데이터 삽입하기
+
+[초심자를 위한 react 핵심 강좌 (6)](...)
+
+- 배열 렌더링하기
+
+[초심자를 위한 react 핵심 강좌 (7)](...)
+
+- 데이터 제거
+  - slice
+  - filter
+- 데이터 수정
+  - slice
+  - map
